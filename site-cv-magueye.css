@@ -1,0 +1,113 @@
+
+.page{
+	width : 100%;
+	margin : auto;
+	font-size : 16px;
+	font-family : 'source sans Pro', Calibri, Tahoma, sans-serif;
+	background-Color: #f4f4f4;	
+}
+.infophoto{
+	height : 120px;
+	
+}
+.info{
+	padding-top : 10px;
+	float : left;
+	margin-left : 20px;
+	
+}
+
+
+.magueye{
+	height:0;
+	color : #35424a;
+	
+}
+.h2{
+	color : #35424a;
+	
+}
+.photo{
+	
+	height : 120px;
+	width : 120;
+	float : right;
+	margin-right : 20px;
+}
+.competence{
+	background-Color: #e8491d;
+	text-align : center;
+	color : #ffffff;
+	
+	
+}
+.projet{
+	background-Color: #e8491d;
+	text-align : center;
+	color : #ffffff;
+	
+}
+.projet_1{
+min-height:100px;
+}
+
+.projet_1 li{
+margin-left: 20px;
+min-height:10px;
+}
+.projet_1 ul{
+
+min-height:10px;
+margin-top: 2px;
+margin-bottom : 2px;
+}
+.projet_1 p{
+
+min-height:10px;
+margin-top: 2px;
+margin-bottom : 2px; 
+}
+
+.formation{
+	background-Color: #e8491d;
+	text-align : left;
+	padding-left : 500px;
+	color : #ffffff;
+	}
+	
+.formation_1 strong{
+margin-left: 20px;
+
+}
+}.competence{
+	background-Color: #e8491d;
+	text-align : center;
+	color : #ffffff;	
+}
+
+.competence_1 li{
+margin-left: 20px;
+
+}
+
+.centre{
+	background-Color: #e8491d;
+	text-align : center;
+	color : #ffffff;
+	
+}
+.centree strong{
+margin-left: 20px;
+} 
+.centree a{  /* le lien de la formation*/
+margin-left: 20px;
+color : blue;
+} 
+/* les entetes */
+.centree1 a{
+margin-left: 10px;
+color : blue;
+} 
+#entetecv h1{
+min-height:10px;
+}
